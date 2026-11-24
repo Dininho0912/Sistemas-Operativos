@@ -1,0 +1,33 @@
+# Compiled C artifacts & libraries
+*.o
+*.a
+*.so
+*.out
+*.s
+
+# Extensionless compiled executables in this folder
+/backwards
+/char_array
+/compare
+/f3_ex2
+/f4ex1
+/f4ex3
+/f5ex1
+/f5ex2
+/f5ex3
+/f5ex4
+/f6ex1
+/f6ex2
+/filetest
+/hello
+/maintest
+/mycat
+/mycp
+/pointers
+/trig
+
+# Editor swap & OS files
+*.swp
+*~
+.vscode/
+.DS_Store
